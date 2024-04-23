@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="AccueilApp">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="RSOVTKKJEISSKFIJ" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-17T05:00:09.724446900Z" />
+        </State>
+      </entry>
+      <entry key="CongratsApp">
+        <State />
+      </entry>
+      <entry key="EventApp">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="RSOVTKKJEISSKFIJ" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-17T04:58:00.458867400Z" />
+        </State>
+      </entry>
+      <entry key="SplashScreenPreview">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>

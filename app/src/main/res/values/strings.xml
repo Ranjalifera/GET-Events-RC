@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="date">Date</string>
+    <string name="format_date">jj-mm-aa</string>
+    <string name="heure">Heure</string>
+    <string name="format_heure">hh:mm</string>
+    <string name="nom_event">Nom de l\'évènement</string>
+    <string name="event">Evènement</string>
+    <string name="participants">Participants</string>
+    <string name="membres">Membres</string>
+    <string name="lieu">Lieu</string>
+    <string name="adresse">Adresse</string>
+    <string name="descri">Description</string>
+    <string name="resume">Résumé</string>
+    <string name="theme">Catégorie</string>
+    <string name="type">Type</string>
+    <string name="sport">Sport</string>
+    <string name="conf">Conférence</string>
+    <string name="minipr">Mini-projet</string>
+    <string name="algo">Algo Contest</string>
+    <string name="jardinage">Jardinage</string>
+    <string name="recep">Réception</string>
+    <string name="slogan">La fierté d\'appartenance vient du coeur</string>
+    <string name="accueil">Passer</string>
+    <string name="semaine">Semaine des TCO</string>
+    <string name="congrats">OK</string>
+    <string name="confirmer">Confirmer</string>
+    <string name="retour">Retour</string>
+    <string name="reussi">Opération réussie avec succès!</string>
+    <string name="modif">Modifier</string>
+    <string name="title_activity_evenement_test">EvenementTest</string>
+    <string name="title_activity_formulaire_test">FormulaireTest</string>
+    <string name="title_activity_congrats_test">CongratsTest</string>
+    <string name="lieuConf">IAC</string>
+    <string name="lieuMinipr">Vitrine Numérique</string>
+    <string name="lieuAlgo">Vitrine Numérique</string>
+    <string name="lieuJard">Département TCO</string>
+    <string name="lieuSport">Terrain CNAPS</string>
+    <string name="lieuRecep">Espace Surprise</string>
+    <string name="dateConf">Lundi 13</string>
+    <string name="dateMinipr">Mardi 14</string>
+    <string name="dateAlgo">Mercredi 15</string>
+    <string name="dateJard">Jeudi 16</string>
+    <string name="dateSport">Jeudi 16</string>
+    <string name="dateRecep">Vendredi 17</string>
+
+<!--    Event(R.string.conf, R.drawable.conf,"Lundi 13", "08h00-11h00","IAC"),-->
+<!--    Event(R.string.minipr, R.drawable.projet2,"Mardi 14", "08h00-11h00","Vitrine Numérique"),-->
+<!--    Event(R.string.algo, R.drawable.algo1,"Mercredi 15", "08h00-11h00","Vitrine Numérique"),-->
+<!--    Event(R.string.jardinage, R.drawable.jardin,"Jeudi 16", "09h00-11h00","Département TCO"),-->
+<!--    Event(R.string.sport, R.drawable.sport,"Jeudi 16", "14h00-17h00","Terrain CNAPS"),-->
+<!--    Event(R.string.recep, R.drawable.recep,"Vendredi 17", "08h00-19h00","Espace Surprise"),-->
+</resources>
